@@ -1,6 +1,6 @@
 # Webpack Base
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto de lista de "Todo" utilizando JavaScript y webpacks.
 
 ### Notas:
 Se deben reconstruir los módulos de node.
